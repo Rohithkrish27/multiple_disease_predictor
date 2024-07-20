@@ -28,7 +28,7 @@ pytz
 referencing
 requests
 rich
-rpds-py=
+rpds-py
 six
 smmap
 streamlit
