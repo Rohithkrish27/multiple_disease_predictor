@@ -1,7 +1,6 @@
 import streamlit as st 
 import pickle 
 import os
-import streamlit_option_menu
 from streamlit_option_menu import option_menu
 
 st.set_page_config(page_title="Mulitple Disease Prediction",layout="wide", page_icon="👨‍🦰🤶")
